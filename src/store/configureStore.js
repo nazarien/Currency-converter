@@ -4,8 +4,8 @@ import { routerMiddleware } from 'connected-react-router';
 import createSagaMiddleware from 'redux-saga';
 import { createLogger } from 'redux-logger';
 import { composeWithDevTools } from 'redux-devtools-extension/developmentOnly'; // eslint-disable-line
-import rootReducer from 'ducks';
-import rootSaga from 'sagas';
+import rootReducer from 'store/ducks/reducers';
+import rootSaga from 'store/sagas/index';
 
 export const history = createBrowserHistory();
 
