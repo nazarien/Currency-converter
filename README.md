@@ -1,4 +1,5 @@
-SPA on React-Redux with ducks, hooks and axios interceptors. Configure prettier and eslint
+SPA on React-Redux with ducks, hooks and axios interceptors. 
+Configure prettier and eslint.<br>
 API - privatbank
 
 Try new pattern and technology:<br>
