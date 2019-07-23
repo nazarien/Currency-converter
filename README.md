@@ -1,13 +1,13 @@
 SPA on React-Redux with ducks, hooks and axios interceptors. Configure prettier and eslint
 API - privatbank
 
-Try new pattern and technology:
-  hooks
-  redux-ducks
-  redux-logger
-  redux-actions
-  material-ui
-  absolute path with jsconfig.json
+Try new pattern and technology:<br>
+  hooks<br>
+  redux-ducks<br>
+  redux-logger<br>
+  redux-actions<br>
+  material-ui<br>
+  absolute path with jsconfig.json<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
